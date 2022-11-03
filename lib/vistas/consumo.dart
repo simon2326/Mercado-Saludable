@@ -43,7 +43,7 @@ class Consumo extends StatelessWidget {
                   ),
                 ),
                 Positioned(
-                    top: 20, left: 10, child: titulo("SECCIÓN CONSUMO", 45)),
+                    top: 20, left: 10, child: titulo("SECCI0N CONSUMO", 45)),
               ],
             ),
           ),
